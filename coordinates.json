@@ -4,19 +4,19 @@
     "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events",
     "events": [
         {
-            "id": "Школа 16",
-            "title": "Wyrick Fire",
+            "id": "Средняя Школа №16 им. Заки Ахметова",
+            "title": "Среднее Возгарание",
             "description": "",
             "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5420",
             "categories": [
                 {
                     "id": 8,
-                    "title": "Wildfires"
+                    "title": ""
                 }
             ],
             "sources": [
                 {
-                    "id": "InciWeb",
+                    "id": "",
                     "url": "http://inciweb.nwcg.gov/incident/7558/"
                 }
             ],
@@ -32,14 +32,14 @@
             ]
         },
         {
-            "id": "EONET_5419",
-            "title": "Cutoff Fire",
+            "id": "Средняя Школа №1 им. Шакарима Құдайбердиева",
+            "title": "Сильное Возгарание",
             "description": "",
             "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5419",
             "categories": [
                 {
                     "id": 8,
-                    "title": "Wildfires"
+                    "title": ""
                 }
             ],
             "sources": [
@@ -60,14 +60,14 @@
             ]
         },
         {
-            "id": "EONET_5421",
-            "title": "S-503 Fire",
+            "id": "Лицей №44 им. Оралхана Бокея",
+            "title": "Слабое Возгарание",
             "description": "",
             "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5421",
             "categories": [
                 {
                     "id": 8,
-                    "title": "Wildfires"
+                    "title": ""
                 }
             ],
             "sources": [
