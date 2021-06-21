@@ -1,13 +1,13 @@
 {
     "title": "EONET Events",
     "description": "Natural events from EONET.",
-    "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events",
+    "link": "https://raw.githubusercontent.com/Akamushek/apisforschools.io.kz/main/coordinates.json",
     "events": [
         {
-            "id": "Школа 16",
+            "id": "1",
             "title": "Wyrick Fire",
             "description": "",
-            "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5420",
+            "link": "https://raw.githubusercontent.com/Akamushek/apisforschools.io.kz/main/coordinates.json/1",
             "categories": [
                 {
                     "id": 8,
@@ -32,10 +32,10 @@
             ]
         },
         {
-            "id": "EONET_5419",
+            "id": "2",
             "title": "Cutoff Fire",
             "description": "",
-            "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5419",
+            "link": "https://raw.githubusercontent.com/Akamushek/apisforschools.io.kz/main/coordinates.json/2",
             "categories": [
                 {
                     "id": 8,
@@ -60,10 +60,10 @@
             ]
         },
         {
-            "id": "EONET_5421",
+            "id": "3",
             "title": "S-503 Fire",
             "description": "",
-            "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5421",
+            "link": "https://raw.githubusercontent.com/Akamushek/apisforschools.io.kz/main/coordinates.json/3",
             "categories": [
                 {
                     "id": 8,
