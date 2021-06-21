@@ -17,7 +17,7 @@
             "sources": [
                 {
                     "id": "InciWeb",
-                    "url": "http://inciweb.nwcg.gov/incident/7558/"
+                    "url": ""
                 }
             ],
             "geometries": [
@@ -32,10 +32,10 @@
             ]
         },
         {
-            "id": "Средняя Школа №1 им. Шакарима Құдайбердиева",
+            "id": 1,
             "title": "Сильное Возгарание",
             "description": "",
-            "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5419",
+            "link": "https://github.com/Akamushek/apisforschools.io.kz/edit/main/coordinates.json/1",
             "categories": [
                 {
                     "id": 8,
@@ -45,7 +45,7 @@
             "sources": [
                 {
                     "id": "InciWeb",
-                    "url": "http://inciweb.nwcg.gov/incident/7561/"
+                    "url": ""
                 }
             ],
             "geometries": [
