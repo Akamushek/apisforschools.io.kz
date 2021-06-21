@@ -11,12 +11,12 @@
             "categories": [
                 {
                     "id": 8,
-                    "title": ""
+                    "title": "Wildfires"
                 }
             ],
             "sources": [
                 {
-                    "id": "",
+                    "id": "InciWeb",
                     "url": "http://inciweb.nwcg.gov/incident/7558/"
                 }
             ],
@@ -39,7 +39,7 @@
             "categories": [
                 {
                     "id": 8,
-                    "title": ""
+                    "title": "Wildfires"
                 }
             ],
             "sources": [
