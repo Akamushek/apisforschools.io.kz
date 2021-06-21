@@ -1,11 +1,11 @@
 {
     "title": "EONET Events",
     "description": "Natural events from EONET.",
-    "link": "https://github.com/Akamushek/apisforschools.io.kz/edit/main/coordinates.json/",
+    "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events",
     "events": [
         {
-            "id": "Средняя Школа №16 им. Заки Ахметова",
-            "title": "Среднее Возгарание",
+            "id": "Школа 16",
+            "title": "Wyrick Fire",
             "description": "",
             "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5420",
             "categories": [
@@ -17,7 +17,7 @@
             "sources": [
                 {
                     "id": "InciWeb",
-                    "url": ""
+                    "url": "http://inciweb.nwcg.gov/incident/7558/"
                 }
             ],
             "geometries": [
@@ -25,17 +25,17 @@
                     "date": "2021-06-19T14:00:00Z",
                     "type": "Point",
                     "coordinates": [
-                        49.967382496188286,
-                        82.61134554026178
+                        -110.669,
+                        34.482999999999997
                     ]
                 }
             ]
         },
         {
-            "id": 1,
-            "title": "Сильное Возгарание",
+            "id": "EONET_5419",
+            "title": "Cutoff Fire",
             "description": "",
-            "link": "https://github.com/Akamushek/apisforschools.io.kz/edit/main/coordinates.json/1",
+            "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5419",
             "categories": [
                 {
                     "id": 8,
@@ -45,23 +45,23 @@
             "sources": [
                 {
                     "id": "InciWeb",
-                    "url": ""
+                    "url": "http://inciweb.nwcg.gov/incident/7561/"
                 }
             ],
             "geometries": [
                 {
                     "date": "2021-06-19T13:29:00Z",
                     "type": "Point",
-                    "coordinates":
-                    [
-                        49.94980617560529, 82.61090913409228
+                    "coordinates": [
+                        -121.402,
+                        42.284999999999997
                     ]
                 }
             ]
         },
         {
-            "id": "Лицей №44 им. Оралхана Бокея",
-            "title": "Слабое Возгарание",
+            "id": "EONET_5421",
+            "title": "S-503 Fire",
             "description": "",
             "link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_5421",
             "categories": [
@@ -81,8 +81,8 @@
                     "date": "2021-06-18T18:00:00Z",
                     "type": "Point",
                     "coordinates": [
-                        49.9714,
-                        82.6059
+                        -121.476,
+                        45.087000000000003
                     ]
                 }
             ]
