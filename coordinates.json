@@ -4,7 +4,7 @@
     "link": "https://raw.githubusercontent.com/Akamushek/apisforschools.io.kz/main/coordinates.json",
     "events": [
         {
-            "id": "Школа 16",
+            "id": "EONET_5420",
             "title": "Wyrick Fire",
             "description": "",
             "link": "https://raw.githubusercontent.com/Akamushek/apisforschools.io.kz/main/coordinates.json/EONET_5420",
@@ -14,12 +14,7 @@
                     "title": "Wildfires"
                 }
             ],
-            "sources": [
-                {
-                    "id": "InciWeb",
-                    "url": "http://inciweb.nwcg.gov/incident/7558/"
-                }
-            ],
+            
             "geometries": [
                 {
                     "date": "2021-06-19T14:00:00Z",
